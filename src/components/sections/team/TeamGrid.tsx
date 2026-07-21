@@ -47,28 +47,6 @@ const TEAM_MEMBERS: TeamMember[] = [
     title: "Customer Support",
     bio: "Leads the customer experience function across all LIOZIO solutions. Responsible for WhatsApp support, complaint resolution, the NPS programme, and the feedback loop that turns customer insights into operational improvements. Believes that how a company handles a problem tells you more about it than how it handles a success.",
   },
-  {
-    name: "Ayorinde Ponle",
-    title: "Head of Farm",
-    bio: "Leads LIOZIO's farm operations and sourcing partnerships — the ground-level relationships that make Drumroll's direct-sourcing model possible. Responsible for supplier quality standards, harvest planning, and the farm-to-pickup pipeline that keeps Goodfood's shelves stocked with genuinely fresh product. Believes that a supply chain is only as honest as its weakest link, so every link gets checked personally.",
-    image: "/images/team/ayorinde-ponle.jpg",
-  },
-  {
-    name: "Obadiah Omiyode",
-    title: "Farm Technician",
-    bio: "Manages the day-to-day technical operations across LIOZIO's farm partnerships — yield monitoring, quality control at the point of harvest, and the practical groundwork that turns a sourcing strategy into a working supply chain. The person closest to the product before it ever reaches a customer.",
-    image: "/images/team/obadiah-omiyode.jpg",
-  },
-  {
-    name: "Thomas Emokele",
-    title: "Protocol Officer",
-    bio: "Works alongside the protocol team on institutional relationships and formal engagements, ensuring LIOZIO Solutions represents itself consistently and correctly in every official interaction.",
-  },
-  {
-    name: "Monday Iwegue",
-    title: "Protocol Officer",
-    bio: "Works alongside the protocol team on institutional relationships and formal engagements, ensuring LIOZIO Solutions represents itself consistently and correctly in every official interaction.",
-  },
 ];
 
 export default function TeamGrid() {
